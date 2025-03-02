@@ -1,14 +1,12 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Mayank+Kansal;A+Passionate+Full+Stack+Developer;MERN+Stack+%7C+AWS+%7C+Cloud+Enthusiast;Open-Source+Contributor+%26+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Mayank+Kansal;A+Passionate+Full+Stack+Developer;MERN+Stack+%7C+AI+Enthusiast;Open-Source+Contributor+%26+Mentor" alt="Typing SVG" />
 </div>
 
 <!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/grid-snake.svg" alt="Snake Animation" />
-</div>
 
----
+
+
 
 <!-- About Me Section -->
 ### 🚀 About Me
@@ -62,29 +60,22 @@ Here are some of the projects I’ve worked on:
 <!-- Social Links Section -->
 ### 🤝 Let's Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-kansal-a062752a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="https://x.com/_mayankkansal_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
+  <a href="https://www.instagram.com/mynkk__1/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://hashnode.com/@your-hashnode" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
-  </a>
-  <a href="https://discordapp.com/users/your-discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://vercel.com/mayanks-projects-b06bc3e0" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
 </div>
 
 ---
 
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=iam.mayank.kansal&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
-</div>
 
 
 <!-- Footer -->
