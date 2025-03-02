@@ -69,9 +69,6 @@ Here are some of the projects I’ve worked on:
   <a href="https://www.instagram.com/mynkk__1/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://vercel.com/mayanks-projects-b06bc3e0" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </a>
 </div>
 
 ---
