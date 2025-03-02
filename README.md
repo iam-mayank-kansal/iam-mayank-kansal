@@ -41,12 +41,17 @@
 ---
 
 <!-- Projects Section -->
-### 🌟 Featured Projects
-Here are some of the projects I’ve worked on:
-- **[Project 1](https://github.com/iam.mayank.kansal/project1):** A scalable e-commerce platform built with MERN stack.
-- **[Project 2](https://github.com/iam.mayank.kansal/project2):** A real-time chat application using WebSockets and React.
-- **[Project 3](https://github.com/iam.mayank.kansal/project3):** A cloud-based task management tool with AWS integration.
+### 🌟 Featured Projects  
+Here are some of the projects I’ve worked on:  
 
+- **[Coursera Classroom Frontend LMS Clone](https://github.com/iam-mayank-kansal/Coursera-Classrom-Frontend-LMS-Clone):**  
+  A frontend clone of Coursera's classroom, built with React and Tailwind for an intuitive LMS experience.  
+
+- **[Fake Certificate Generator](https://github.com/iam-mayank-kansal/Fake-Certificate-Generator):**  
+  A blockchain-based system to generate and verify certificates securely.  
+
+- **[SkillsYard Team](https://github.com/iam-mayank-kansal/SkillsYard-Team):**  
+  A collaborative platform for upskilling and mentorship, built with the MERN stack.  
 ---
 
 <!-- Contributions Section -->
