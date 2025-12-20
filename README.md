@@ -53,63 +53,28 @@ I specialize in the **modern JavaScript ecosystem** with a proven track record o
 
 ### 🔤 **Languages**
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,mysql,html,css,php" />
 </p>
 
 ### 🎨 **Frontend & UI**
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Material UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn" />
-  <img src="https://img.shields.io/badge/Framer Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Zustand-181D23?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
 </p>
 
 ### ⚙️ **Backend & APIs**
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/REST APIs-FF6B6B?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/EJS-B0E0E6?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman,apollo,fastapi,socketio" />
 </p>
 
-### 🗄️ **Databases & Storage**
+### 🗄️ **Databases & ORM**
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### 🛠️ **DevOps & Tools**
 <p align="center">
-  <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git/GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CI/CD-0078D4?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,figma" />
 </p>
-
-### 🤖 **AI & ML Integrations**
-<p align="center">
-  <img src="https://img.shields.io/badge/Gemini API-8E75B6?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/LangChain-1D70B8?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Generative AI-FF6B6B?style=for-the-badge&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
