@@ -217,8 +217,6 @@ A comprehensive property rental marketplace connecting property owners with tena
 
 </details>
 
-<details>
----
 
 ## 💼 Professional Experience
 
