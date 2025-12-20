@@ -120,8 +120,9 @@ I specialize in the **modern JavaScript ecosystem** with a proven track record o
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.vercel.app?user=iam-mayank-kansal&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=iam-mayank-kansal&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
+
 
 ---
 
