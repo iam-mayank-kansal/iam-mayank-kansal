@@ -1,18 +1,6 @@
 <img 
-  src="https://capsule-render.vercel.app/api
-?type=waving
-&color=0:667eea,50:764ba2,100:f093fb
-&height=300
-&section=header
-&text=Mayank%20Kansal
-&fontSize=70
-&fontColor=ffffff
-&animation=fadeIn
-&desc=Full%20Stack%20Web%20Developer
-&descSize=20
-&descAlignY=65" 
-  alt="Header" 
-  width="100%"/>
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Mayank%20Kansal&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descSize=20&descAlignY=65" alt="Header" width="100%"/>
+
   
 
 <p align="center">
